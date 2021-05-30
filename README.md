@@ -1,4 +1,4 @@
-# cvjessika
+# CRUD CON VUE, VUETIFY + FIREBASE
 
 ## Project setup
 ```
